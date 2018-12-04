@@ -5,6 +5,3 @@ percentUp = (82 - 72) / 72
 print("%.2f%%" % (percentUp * 100))
 # 打印方式2
 print("%.2f%%".format(percentUp * 10))
-
-# tuple的初始化
-a = ((1))
