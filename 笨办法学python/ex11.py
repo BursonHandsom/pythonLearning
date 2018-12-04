@@ -8,5 +8,3 @@
 #       age, tall, weight))
 
 a = input()
-b = 6
-print(eval(a, {b: 6}))
